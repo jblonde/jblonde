@@ -1,13 +1,13 @@
-# 👋 Hola, soy [Tu Nombre]
+# 👋 Hola, soy [Joaquim]
 
-Desarrollador apasionado por crear tecnológicas. Me encanta aprender cosas nuevas y colaborar en proyectos interesantes.
+Desarrollador apasionado por las tecnológicas. Me encanta aprender cosas nuevas y colaborar en proyectos interesantes.
 
 ## 🚀 Sobre mí
 
 - 💻 Actualmente trabajando en proyectos de desarrollo web
 - 🌱 Aprendiendo nuevas tecnologías constantemente
 - 📍 Ubicado en Barcelona, España
-- ⚡ Dato curioso: Me programar de noche y la lluvia
+- ⚡ Dato curioso: Me programar de noche acompañado de la lluvia
 
 ## 🛠️ Tecnologías que uso
 
@@ -18,8 +18,9 @@ Desarrollador apasionado por crear tecnológicas. Me encanta aprender cosas nuev
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 **Backend:**
-![Php](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 **Bases de datos:**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -31,11 +32,17 @@ Desarrollador apasionado por crear tecnológicas. Me encanta aprender cosas nuev
 
 ## 🌟 Proyectos destacados
 
-### [Nombre del Proyecto 1](https://github.com/TU-USUARIO/proyecto-1)
-Breve descripción de lo que hace este proyecto. Tecnologías: React, Node.js, MongoDB
+### [Proyectobjj](https://github.com/jblonde/proyectobjj)
+Buscador de gimnasios de artes marciales por zonas, actualmente bajo desarrollo. Tecnologías: React, Js, Py.
 
-### [Nombre del Proyecto 2](https://github.com/TU-USUARIO/proyecto-2)
-Breve descripción de lo que hace este proyecto. Tecnologías: Python, Django, PostgreSQL
+### [NotasOK](https://github.com/jblonde/NotasOK)
+Sistema que sirve a los docentes para hacer una media de las notas. Tecnologías: Java.
+
+### [ConexionPHP](https://github.com/jblonde/ConexionPHP-SV)
+Aburrido que no exista conexion php-sv? Aqui tienes la solucion. Tecnologías: PHP.
+
+### [ProyectoIFP](https://github.com/Antoniorodgo/JustCookClient)
+Proyecto final formacion iFP, actualmente bajo desarrollo. Tecnologías: React, Js, PHP y MySQL.
 
 
 ## 📫 Cómo contactarme
