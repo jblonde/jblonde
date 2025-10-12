@@ -1,4 +1,4 @@
-# 👋 Hola, soy [Joaquim]
+## 👋 Hola, soy Quim
 
 Desarrollador apasionado por las tecnológicas. Me encanta aprender cosas nuevas y colaborar en proyectos interesantes.
 
@@ -8,6 +8,7 @@ Desarrollador apasionado por las tecnológicas. Me encanta aprender cosas nuevas
 - 🌱 Aprendiendo nuevas tecnologías constantemente
 - 📍 Ubicado en Barcelona, España
 - ⚡ Dato curioso: Me programar de noche acompañado de la lluvia
+- 🥋 Apasionado del fitness y deportes de contacto
 
 ## 🛠️ Tecnologías que uso
 
