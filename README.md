@@ -49,7 +49,7 @@ Proyecto final formacion iFP, actualmente bajo desarrollo. Tecnologías: React, 
 ## 📫 Cómo contactarme
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquim-rubio-b08192290/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](joaquimrf93@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joaquimrf93@gmail.com)
 
 ---
 
