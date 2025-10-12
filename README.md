@@ -46,6 +46,9 @@ Aburrido que no exista conexion php-sv? Aqui tienes la solucion. Tecnologías: P
 ### [ProyectoIFP](https://github.com/Antoniorodgo/JustCookClient)
 Proyecto final formacion iFP, actualmente bajo desarrollo. Tecnologías: React, Js, PHP y MySQL.
 
+### [PracticaCliente](https://github.com/jblonde/practicauf1cliente)
+Practica de crear una web de padel. Tecnologías: HTML, PHP, JS.
+
 
 ## 📫 Cómo contactarme
 
