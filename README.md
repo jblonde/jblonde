@@ -7,7 +7,7 @@ Desarrollador apasionado por las tecnológicas. Me encanta aprender cosas nuevas
 - 💻 Actualmente trabajando en proyectos de desarrollo web
 - 🌱 Aprendiendo nuevas tecnologías constantemente
 - 📍 Ubicado en Barcelona, España
-- ⚡ Dato curioso: Me programar de noche acompañado de la lluvia
+- ⚡ Dato curioso: Me programar acompañado de la lluvia
 - 🥋 Apasionado del fitness y deportes de contacto
 
 ## 🛠️ Tecnologías que uso
@@ -44,10 +44,10 @@ Sistema que sirve a los docentes para hacer una media de las notas. Tecnologías
 Aburrido que no exista conexion php-sv? Aqui tienes la solucion. Tecnologías: PHP.
 
 ### [ProyectoIFP](https://github.com/Antoniorodgo/JustCookClient)
-Proyecto final formacion iFP, actualmente bajo desarrollo. Tecnologías: React, Js, PHP y MySQL.
+Proyecto final formacion iFP. Tecnologías: React, Js, PHP y MySQL.
 
 ### [PracticaCliente](https://github.com/jblonde/practicauf1cliente)
-Practica de crear una web de padel. Tecnologías: HTML, PHP, JS.
+Practica curiosa para crear una web de padel. Tecnologías: HTML, PHP, JS.
 
 
 ## 📫 Cómo contactarme
