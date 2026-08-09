@@ -7,7 +7,6 @@ Desarrollador apasionado por las tecnológicas. Me encanta aprender cosas nuevas
 - 💻 Actualmente trabajando en proyectos de desarrollo web
 - 🌱 Aprendiendo nuevas tecnologías constantemente
 - 📍 Ubicado en Barcelona, España
-- ⚡ Dato curioso: Me programar acompañado de la lluvia
 - 🥋 Apasionado del fitness y deportes de contacto
 
 ## 🛠️ Tecnologías que uso
