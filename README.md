@@ -2,12 +2,12 @@
 
 Desarrollador apasionado por las tecnológicas. Me encanta aprender cosas nuevas y colaborar en proyectos interesantes.
 
-## 🚀 Sobre mí
 
+- 🚀 (https://www.udemy.com/user/joaquim-rubio/)
 - 💻 Actualmente trabajando en proyectos de desarrollo web
 - 🌱 Aprendiendo nuevas tecnologías constantemente
 - 📍 Ubicado en Barcelona, España
-- 🥋 Apasionado del fitness y deportes de contacto
+- 🥋 Apasionado del JiuJitsu y el grappling
 
 ## 🛠️ Tecnologías que uso
 
