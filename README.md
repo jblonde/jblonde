@@ -39,9 +39,6 @@ Buscador de gimnasios de artes marciales por zonas, actualmente bajo desarrollo.
 ### [NotasOK](https://github.com/jblonde/NotasOK)
 Sistema que sirve a los docentes para hacer una media de las notas. Tecnologías: Java.
 
-### [ConexionPHP](https://github.com/jblonde/ConexionPHP-SV)
-Aburrido que no exista conexion php-sv? Aqui tienes la solucion. Tecnologías: PHP.
-
 ### [ProyectoIFP](https://github.com/Antoniorodgo/JustCookClient)
 Proyecto final formacion iFP. Tecnologías: React, Js, PHP y MySQL.
 
