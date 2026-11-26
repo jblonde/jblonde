@@ -3,7 +3,7 @@
 Desarrollador apasionado por las tecnológicas. Me encanta aprender cosas nuevas y colaborar en proyectos interesantes.
 
 
-- 🚀 (https://www.udemy.com/user/joaquim-rubio/)
+- 🚀 Repositorio de titulación en proceso... 🔋
 - 💻 Actualmente trabajando en proyectos de desarrollo web
 - 🌱 Aprendiendo nuevas tecnologías constantemente
 - 📍 Ubicado en Barcelona, España
@@ -38,6 +38,9 @@ Buscador de gimnasios de artes marciales por zonas, actualmente bajo desarrollo.
 
 ### [NotasOK](https://github.com/jblonde/NotasOK)
 Sistema que sirve a los docentes para hacer una media de las notas. Tecnologías: Java.
+
+### [NotasOK](https://github.com/jblonde/calculadora-medias-profesor)
+Versión mejorada en Phython, mas sencilla y comoda de usar. Tecnologías: Python.
 
 ### [ProyectoIFP](https://github.com/Antoniorodgo/JustCookClient)
 Proyecto final formacion iFP. Tecnologías: React, Js, PHP y MySQL.
