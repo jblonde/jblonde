@@ -39,7 +39,7 @@ Buscador de gimnasios de artes marciales por zonas, actualmente bajo desarrollo.
 ### [NotasOK](https://github.com/jblonde/NotasOK)
 Sistema que sirve a los docentes para hacer una media de las notas. Tecnologías: Java.
 
-### [NotasOK](https://github.com/jblonde/calculadora-medias-profesor)
+### [Calculadora de medias para docentes](https://github.com/jblonde/calculadora-medias-profesor)
 Versión mejorada en Phython, mas sencilla y comoda de usar. Tecnologías: Python.
 
 ### [ProyectoIFP](https://github.com/Antoniorodgo/JustCookClient)
