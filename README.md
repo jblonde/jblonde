@@ -33,6 +33,9 @@ Desarrollador apasionado por las tecnológicas. Me encanta aprender cosas nuevas
 
 ## 🌟 Proyectos destacados
 
+### [J.A.R.V.I.S.](https://github.com/jblonde/RubioDesk-JARVIS)
+Mi asistente personal, casi tan perfecto como el de IornMan.
+
 ### [Proyectobjj](https://github.com/jblonde/proyectobjj)
 Buscador de gimnasios de artes marciales por zonas, actualmente bajo desarrollo. Tecnologías: React, Js, Py.
 
